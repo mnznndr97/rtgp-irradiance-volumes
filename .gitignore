@@ -1,0 +1,14 @@
+.vs
+
+x64/
+
+*.exe
+*.pdb
+*.obj
+*.user
+*.exp
+*.ilk
+*.lib
+*.dll
+.vscode
+*.out
